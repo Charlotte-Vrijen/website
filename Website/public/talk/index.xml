@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Recent &amp; Upcoming Presentations | Charlotte Vrijen</title>
+    <link>https://charlottevrijen.com/talk/</link>
+      <atom:link href="https://charlottevrijen.com/talk/index.xml" rel="self" type="application/rss+xml" />
+    <description>Recent &amp; Upcoming Presentations</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>Charlotte Vrijen © 2020</copyright><lastBuildDate>Tue, 19 Jan 2021 13:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://charlottevrijen.com/media/wordcloud.png</url>
+      <title>Recent &amp; Upcoming Presentations</title>
+      <link>https://charlottevrijen.com/talk/</link>
+    </image>
+    
+    <item>
+      <title>Pre-registration Q&amp;A session</title>
+      <link>https://charlottevrijen.com/talk/pre-registrationqa/</link>
+      <pubDate>Tue, 19 Jan 2021 13:00:00 +0000</pubDate>
+      <guid>https://charlottevrijen.com/talk/pre-registrationqa/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Meta-analysis on childhood and adolescent peer bullying perpetration and later substance use (oral presentation)</title>
+      <link>https://charlottevrijen.com/talk/meta-analysis/</link>
+      <pubDate>Fri, 20 Nov 2020 11:10:00 +0000</pubDate>
+      <guid>https://charlottevrijen.com/talk/meta-analysis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Pre-registration kick-off session (oral presentation)</title>
+      <link>https://charlottevrijen.com/talk/pre-registrationkickoff/</link>
+      <pubDate>Tue, 03 Nov 2020 13:00:00 +0000</pubDate>
+      <guid>https://charlottevrijen.com/talk/pre-registrationkickoff/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Like parent, like child? (public outreach)</title>
+      <link>https://charlottevrijen.com/talk/noorderzon/</link>
+      <pubDate>Sat, 17 Aug 2019 00:00:00 +0000</pubDate>
+      <guid>https://charlottevrijen.com/talk/noorderzon/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Low Reward Responsiveness at age 16 Predicts Onset of Depression During 9 Years of Follow-up (poster presentation)</title>
+      <link>https://charlottevrijen.com/talk/reward-srcd/</link>
+      <pubDate>Thu, 21 Mar 2019 00:00:00 +0000</pubDate>
+      <guid>https://charlottevrijen.com/talk/reward-srcd/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ghosts from the past. Consequences of Adolescent Peer Experiences across social contexts and generations (CAPE) (oral presentation)</title>
+      <link>https://charlottevrijen.com/talk/ghosts-from-the-past/</link>
+      <pubDate>Wed, 12 Dec 2018 00:00:00 +0000</pubDate>
+      <guid>https://charlottevrijen.com/talk/ghosts-from-the-past/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

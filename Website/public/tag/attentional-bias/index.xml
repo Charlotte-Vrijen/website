@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Attentional bias | Charlotte Vrijen</title>
+    <link>https://charlottevrijen.com/tag/attentional-bias/</link>
+      <atom:link href="https://charlottevrijen.com/tag/attentional-bias/index.xml" rel="self" type="application/rss+xml" />
+    <description>Attentional bias</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>Charlotte Vrijen © 2020</copyright><lastBuildDate>Thu, 21 Mar 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://charlottevrijen.com/media/wordcloud.png</url>
+      <title>Attentional bias</title>
+      <link>https://charlottevrijen.com/tag/attentional-bias/</link>
+    </image>
+    
+    <item>
+      <title>Low Reward Responsiveness at age 16 Predicts Onset of Depression During 9 Years of Follow-up (poster presentation)</title>
+      <link>https://charlottevrijen.com/talk/reward-srcd/</link>
+      <pubDate>Thu, 21 Mar 2019 00:00:00 +0000</pubDate>
+      <guid>https://charlottevrijen.com/talk/reward-srcd/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Reward-Related Attentional Bias at Age 16 Predicts Onset of Depression During 9 Years of Follow-up</title>
+      <link>https://charlottevrijen.com/publication/vrijen-reward-related-2019/</link>
+      <pubDate>Fri, 01 Mar 2019 00:00:00 +0000</pubDate>
+      <guid>https://charlottevrijen.com/publication/vrijen-reward-related-2019/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

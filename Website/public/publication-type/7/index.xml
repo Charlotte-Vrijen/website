@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>7 | Charlotte Vrijen</title>
+    <link>https://charlottevrijen.com/publication-type/7/</link>
+      <atom:link href="https://charlottevrijen.com/publication-type/7/index.xml" rel="self" type="application/rss+xml" />
+    <description>7</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>Charlotte Vrijen © 2020</copyright><lastBuildDate>Mon, 13 May 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://charlottevrijen.com/media/wordcloud.png</url>
+      <title>7</title>
+      <link>https://charlottevrijen.com/publication-type/7/</link>
+    </image>
+    
+    <item>
+      <title>Happy Faces and Other Rewards: Different Perspectives on a Bias Away from Positive and Toward Negative Information as an Underlying Mechanism of Depression</title>
+      <link>https://charlottevrijen.com/publication/vrijen-happy-2019/</link>
+      <pubDate>Mon, 13 May 2019 00:00:00 +0000</pubDate>
+      <guid>https://charlottevrijen.com/publication/vrijen-happy-2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The philosophical development of Gilbert Ryle: A study of his published and unpublished writings</title>
+      <link>https://charlottevrijen.com/publication/vrijen-philosophy-2007/</link>
+      <pubDate>Thu, 14 Jun 2007 00:00:00 +0000</pubDate>
+      <guid>https://charlottevrijen.com/publication/vrijen-philosophy-2007/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

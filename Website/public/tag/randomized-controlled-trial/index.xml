@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Randomized controlled trial | Charlotte Vrijen</title>
+    <link>https://charlottevrijen.com/tag/randomized-controlled-trial/</link>
+      <atom:link href="https://charlottevrijen.com/tag/randomized-controlled-trial/index.xml" rel="self" type="application/rss+xml" />
+    <description>Randomized controlled trial</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>Charlotte Vrijen © 2020</copyright><lastBuildDate>Fri, 01 Jan 2016 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://charlottevrijen.com/media/wordcloud.png</url>
+      <title>Randomized controlled trial</title>
+      <link>https://charlottevrijen.com/tag/randomized-controlled-trial/</link>
+    </image>
+    
+    <item>
+      <title>Study protocol for a randomized controlled trial to explore the effects of personalized lifestyle advices and tandem skydives on pleasure in anhedonic young adults</title>
+      <link>https://charlottevrijen.com/publication/van-roekel-study-2016/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>https://charlottevrijen.com/publication/van-roekel-study-2016/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

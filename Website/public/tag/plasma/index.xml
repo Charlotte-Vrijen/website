@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Plasma | Charlotte Vrijen</title>
+    <link>https://charlottevrijen.com/tag/plasma/</link>
+      <atom:link href="https://charlottevrijen.com/tag/plasma/index.xml" rel="self" type="application/rss+xml" />
+    <description>Plasma</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>Charlotte Vrijen © 2020</copyright><lastBuildDate>Tue, 01 Aug 2017 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://charlottevrijen.com/media/wordcloud.png</url>
+      <title>Plasma</title>
+      <link>https://charlottevrijen.com/tag/plasma/</link>
+    </image>
+    
+    <item>
+      <title>Measuring BDNF in saliva using commercial ELISA: Results from a small pilot study</title>
+      <link>https://charlottevrijen.com/publication/vrijen-measuring-2017/</link>
+      <pubDate>Tue, 01 Aug 2017 00:00:00 +0000</pubDate>
+      <guid>https://charlottevrijen.com/publication/vrijen-measuring-2017/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

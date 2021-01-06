@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Emotion identification | Charlotte Vrijen</title>
+    <link>https://charlottevrijen.com/tag/emotion-identification/</link>
+      <atom:link href="https://charlottevrijen.com/tag/emotion-identification/index.xml" rel="self" type="application/rss+xml" />
+    <description>Emotion identification</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>Charlotte Vrijen © 2020</copyright><lastBuildDate>Tue, 01 Nov 2016 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://charlottevrijen.com/media/wordcloud.png</url>
+      <title>Emotion identification</title>
+      <link>https://charlottevrijen.com/tag/emotion-identification/</link>
+    </image>
+    
+    <item>
+      <title>Lower Sensitivity to Happy and Angry Facial Emotions in Young Adults with Psychiatric Problems</title>
+      <link>https://charlottevrijen.com/publication/vrijen-lower-2016/</link>
+      <pubDate>Tue, 01 Nov 2016 00:00:00 +0000</pubDate>
+      <guid>https://charlottevrijen.com/publication/vrijen-lower-2016/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Slow identification of facial happiness in early adolescence predicts onset of depression during 8 years of follow-up</title>
+      <link>https://charlottevrijen.com/publication/vrijen-slow-2016/</link>
+      <pubDate>Fri, 01 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>https://charlottevrijen.com/publication/vrijen-slow-2016/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

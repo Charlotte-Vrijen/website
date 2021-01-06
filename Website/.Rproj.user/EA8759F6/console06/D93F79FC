@@ -1,0 +1,17 @@
+]0;~/R/website copy 2[?1034hCharlottes-MacBook-Air:website copy 2 Charlie$ [KCharlottes-MacBook-Air:website copy 2 Charlie$ cd /Home/Ch arlie/R/website copy2/
+bash: cd: /Home/Charlie/R/website: No such file or directory
+]0;~/R/website copy 2Charlottes-MacBook-Air:website copy 2 Charlie$ academic im port --bibtex my_publications.bib
+04:17:02PM ERROR: Invalid date for entry `masselink_domains_nodate`.
+[KCharlottes-MacBook-Air:website copy 2 Charlie$ cd [K[K[Kcd /Users /Charlie/R/Website test/
+]0;~/R/WebsiteCharlottes-MacBook-Air:Website Charlie$ cd /Users/Charli e/R/
+]0;~/RCharlottes-MacBook-Air:R Charlie$ cd /Users/Charlie/R/We bsite test/
+]0;~/R/WebsiteCharlottes-MacBook-Air:Website Charlie$ academic import  --bibtex my_publicationsfil.bib
+01:46:26PM WARNING: Skipping creation of content/publication/mcguinness-first-2006 as it already exists. To overwrite, add the `--overwrite` argument.
+01:46:26PM WARNING: Skipping creation of content/publication/vrijen-ryle-2006 as it already exists. To overwrite, add the `--overwrite` argument.
+[KCharlottes-MacBook-Air:Website Charlie$ cd /Users/ Charlibsite test/[K[K[K[K[K[K[K[K[K[K[Ke
+]0;~Charlottes-MacBook-Air:~ Charlie$ cd /Users/Charli e/R/Website test copy
+]0;~/R/WebsiteCharlottes-MacBook-Air:Website Charlie$ h[KHugo
+bash: Hugo: command not found
+Hugo
+bash: Hugo: command not found
+]0;~/R/WebsiteCharlottes-MacBook-Air:Website Charlie$ Hugo[K[K[K[K

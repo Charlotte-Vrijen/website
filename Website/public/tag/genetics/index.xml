@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Genetics | Charlotte Vrijen</title>
+    <link>https://charlottevrijen.com/tag/genetics/</link>
+      <atom:link href="https://charlottevrijen.com/tag/genetics/index.xml" rel="self" type="application/rss+xml" />
+    <description>Genetics</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>Charlotte Vrijen © 2020</copyright><lastBuildDate>Thu, 01 Mar 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://charlottevrijen.com/media/wordcloud.png</url>
+      <title>Genetics</title>
+      <link>https://charlottevrijen.com/tag/genetics/</link>
+    </image>
+    
+    <item>
+      <title>Intergenerational transmission</title>
+      <link>https://charlottevrijen.com/project/intergenerational-transmission/</link>
+      <pubDate>Thu, 01 Mar 2018 00:00:00 +0000</pubDate>
+      <guid>https://charlottevrijen.com/project/intergenerational-transmission/</guid>
+      <description>&lt;p&gt;My postdoc is part of &lt;a href=&#34;https://kretschmertina.wordpress.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Dr. Tina Kretschmer&amp;rsquo;s&lt;/a&gt; ERC funded project &lt;a href=&#34;https://kretschmertina.wordpress.com/erc-cape/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Ghosts from the Past: Consequences of Adolescent Peer Experiences across Contexts and Generations (CAPE)&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;In this project we investigate whether and how peer experiences are transmitted a) to adult friendships and romantic relationships, and b) across generations, i.e., passed on to offspring, to shed light on how the “ghosts from peer past” affect young adults’ relationships and their children’s early social development.&lt;/p&gt;
+&lt;p&gt;Our methods include examining longitudinal links between adolescent peer and young adult close relationships and test whether parents’ peer experiences affect offspring’s peer experiences. Psychological functioning, parenting, temperament, genetic, and epigenetic transmission mechanisms are examined separately and in interplay. We utilise data from &lt;a href=&#34;https://www.trails.nl/en/home/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;the TRAILS cohort&lt;/a&gt; that has been followed since age 11. To study intergenerational transmission, the &lt;a href=&#34;https://www.trails.nl/en/hoofdmenu/participants/trails-next/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;TRAILS NEXT&lt;/a&gt; sample of participants with children is substantially extended.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

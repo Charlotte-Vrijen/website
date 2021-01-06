@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Open science | Charlotte Vrijen</title>
+    <link>https://charlottevrijen.com/tag/open-science/</link>
+      <atom:link href="https://charlottevrijen.com/tag/open-science/index.xml" rel="self" type="application/rss+xml" />
+    <description>Open science</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>Charlotte Vrijen © 2020</copyright><lastBuildDate>Tue, 19 Jan 2021 13:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://charlottevrijen.com/media/wordcloud.png</url>
+      <title>Open science</title>
+      <link>https://charlottevrijen.com/tag/open-science/</link>
+    </image>
+    
+    <item>
+      <title>Pre-registration Q&amp;A session</title>
+      <link>https://charlottevrijen.com/talk/pre-registrationqa/</link>
+      <pubDate>Tue, 19 Jan 2021 13:00:00 +0000</pubDate>
+      <guid>https://charlottevrijen.com/talk/pre-registrationqa/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Pre-registration kick-off session (oral presentation)</title>
+      <link>https://charlottevrijen.com/talk/pre-registrationkickoff/</link>
+      <pubDate>Tue, 03 Nov 2020 13:00:00 +0000</pubDate>
+      <guid>https://charlottevrijen.com/talk/pre-registrationkickoff/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Reward-Related Attentional Bias at Age 16 Predicts Onset of Depression During 9 Years of Follow-up</title>
+      <link>https://charlottevrijen.com/publication/vrijen-reward-related-2019/</link>
+      <pubDate>Fri, 01 Mar 2019 00:00:00 +0000</pubDate>
+      <guid>https://charlottevrijen.com/publication/vrijen-reward-related-2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Alpha-amylase reactivity and recovery patterns in anhedonic young adults performing a tandem skydive</title>
+      <link>https://charlottevrijen.com/publication/vrijen-alpha-amylase-2018/</link>
+      <pubDate>Sat, 01 Sep 2018 00:00:00 +0000</pubDate>
+      <guid>https://charlottevrijen.com/publication/vrijen-alpha-amylase-2018/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

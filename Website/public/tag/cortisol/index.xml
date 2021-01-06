@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Cortisol | Charlotte Vrijen</title>
+    <link>https://charlottevrijen.com/tag/cortisol/</link>
+      <atom:link href="https://charlottevrijen.com/tag/cortisol/index.xml" rel="self" type="application/rss+xml" />
+    <description>Cortisol</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>Charlotte Vrijen © 2020</copyright><lastBuildDate>Sat, 01 Sep 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://charlottevrijen.com/media/wordcloud.png</url>
+      <title>Cortisol</title>
+      <link>https://charlottevrijen.com/tag/cortisol/</link>
+    </image>
+    
+    <item>
+      <title>Alpha-amylase reactivity and recovery patterns in anhedonic young adults performing a tandem skydive</title>
+      <link>https://charlottevrijen.com/publication/vrijen-alpha-amylase-2018/</link>
+      <pubDate>Sat, 01 Sep 2018 00:00:00 +0000</pubDate>
+      <guid>https://charlottevrijen.com/publication/vrijen-alpha-amylase-2018/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

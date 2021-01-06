@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Philosophy | Charlotte Vrijen</title>
+    <link>https://charlottevrijen.com/tag/philosophy/</link>
+      <atom:link href="https://charlottevrijen.com/tag/philosophy/index.xml" rel="self" type="application/rss+xml" />
+    <description>Philosophy</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>Charlotte Vrijen © 2020</copyright><lastBuildDate>Thu, 14 Jun 2007 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://charlottevrijen.com/media/wordcloud.png</url>
+      <title>Philosophy</title>
+      <link>https://charlottevrijen.com/tag/philosophy/</link>
+    </image>
+    
+    <item>
+      <title>Philosophy</title>
+      <link>https://charlottevrijen.com/project/philosophy/</link>
+      <pubDate>Thu, 14 Jun 2007 00:00:00 +0000</pubDate>
+      <guid>https://charlottevrijen.com/project/philosophy/</guid>
+      <description>&lt;p&gt;In 2007 I completed my first dissertation, entitled &amp;ldquo;The philosophical development of Gilbert Ryle: A study of his published and unpublished writings&amp;quot;This dissertation is the first comprehensive study of the writings, both published and unpublished, of Gilbert Ryle (1900-1976), one of the most well-known and influential philosophers of the twentieth century.&lt;/p&gt;
+&lt;p&gt;In order to trace the philosophical views of Ryle I not only studied his published writings but also used – for the first time – unpublished sources. This may come as a surprise, for it is commonly believed that Ryle had destroyed early drafts, papers and anything that could be used as a kind of Nachlass by later historians. It was a collection of papers written by Ryle and posthumously edited by René Meyer (1993) that first made it clear to me that at least some material had escaped Ryle’s destructive hand. Soon after I had started my PhD-work in 2001, I found out that there does exist a sort of ‘Ryle Collection’ at Linacre College, virtually unknown to the scholarly world, which consists of a substantial part of what was once his own philosophical library and several unpublished documents. I also found several minor collections of Ryle material – letters, notes, typescripts of conversations, correspondences and papers – at various other places in Oxford, e.g. the New Bodleian, the Philosophy Library and Nuffield College. The correspondences include an important exchange between Ryle and Collingwood.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>The philosophical development of Gilbert Ryle: A study of his published and unpublished writings</title>
+      <link>https://charlottevrijen.com/publication/vrijen-philosophy-2007/</link>
+      <pubDate>Thu, 14 Jun 2007 00:00:00 +0000</pubDate>
+      <guid>https://charlottevrijen.com/publication/vrijen-philosophy-2007/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

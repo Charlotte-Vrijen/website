@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Lifestyle advice | Charlotte Vrijen</title>
+    <link>https://charlottevrijen.com/tag/lifestyle-advice/</link>
+      <atom:link href="https://charlottevrijen.com/tag/lifestyle-advice/index.xml" rel="self" type="application/rss+xml" />
+    <description>Lifestyle advice</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>Charlotte Vrijen © 2020</copyright><lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://charlottevrijen.com/media/wordcloud.png</url>
+      <title>Lifestyle advice</title>
+      <link>https://charlottevrijen.com/tag/lifestyle-advice/</link>
+    </image>
+    
+    <item>
+      <title>An Exploratory Randomized Controlled Trial of Personalized Lifestyle Advice and Tandem Skydives as a Means to Reduce Anhedonia</title>
+      <link>https://charlottevrijen.com/publication/van-roekel-exploratory-2017/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://charlottevrijen.com/publication/van-roekel-exploratory-2017/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Genes | Charlotte Vrijen</title>
+    <link>https://charlottevrijen.com/tag/genes/</link>
+      <atom:link href="https://charlottevrijen.com/tag/genes/index.xml" rel="self" type="application/rss+xml" />
+    <description>Genes</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>Charlotte Vrijen © 2020</copyright><lastBuildDate>Sat, 17 Aug 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://charlottevrijen.com/media/wordcloud.png</url>
+      <title>Genes</title>
+      <link>https://charlottevrijen.com/tag/genes/</link>
+    </image>
+    
+    <item>
+      <title>Like parent, like child? (public outreach)</title>
+      <link>https://charlottevrijen.com/talk/noorderzon/</link>
+      <pubDate>Sat, 17 Aug 2019 00:00:00 +0000</pubDate>
+      <guid>https://charlottevrijen.com/talk/noorderzon/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
